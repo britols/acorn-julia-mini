@@ -1,0 +1,7 @@
+project_dir: "/Users/ls2236/Projects/acorn-julia-mini"
+run_name: "test_run"
+climate_scenario_years: "rcp45hotter_2020_2059"
+sim_years: [2021, 2025]
+busprop_name: "boyuan"
+genprop_name: "boyuan"
+branchprop_name: "boyuan"
